@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2806CC3-33E1-4BB7-A00F-CA95348305E2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xtension-Examples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6679FA19-9D63-4A11-AEE9-81059550E7DE</key>
+		<string>https://github.com/benscazzero/NSString-Xtensions.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xtension-Examples/Xtension-Examples.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6679FA19-9D63-4A11-AEE9-81059550E7DE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/benscazzero/NSString-Xtensions.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6679FA19-9D63-4A11-AEE9-81059550E7DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6679FA19-9D63-4A11-AEE9-81059550E7DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xtension-Examples</string>
+		</dict>
+	</array>
+</dict>
+</plist>

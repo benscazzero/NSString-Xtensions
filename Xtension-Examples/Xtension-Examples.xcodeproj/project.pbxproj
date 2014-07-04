@@ -22,6 +22,7 @@
 		6FA3E2031966D24E0055442A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6FA3E1E21966D24E0055442A /* UIKit.framework */; };
 		6FA3E20B1966D24F0055442A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6FA3E2091966D24E0055442A /* InfoPlist.strings */; };
 		6FA3E20D1966D24F0055442A /* Xtension_ExamplesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FA3E20C1966D24F0055442A /* Xtension_ExamplesTests.m */; };
+		6FA3E2181966D2C30055442A /* NSString+Xtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FA3E2171966D2C30055442A /* NSString+Xtensions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,8 @@
 		6FA3E2081966D24E0055442A /* Xtension-ExamplesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Xtension-ExamplesTests-Info.plist"; sourceTree = "<group>"; };
 		6FA3E20A1966D24E0055442A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6FA3E20C1966D24F0055442A /* Xtension_ExamplesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Xtension_ExamplesTests.m; sourceTree = "<group>"; };
+		6FA3E2161966D2C30055442A /* NSString+Xtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Xtensions.h"; sourceTree = "<group>"; };
+		6FA3E2171966D2C30055442A /* NSString+Xtensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Xtensions.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +125,8 @@
 				6FA3E1F71966D24E0055442A /* XTViewController.m */,
 				6FA3E1F91966D24E0055442A /* Images.xcassets */,
 				6FA3E1E51966D24E0055442A /* Supporting Files */,
+				6FA3E2161966D2C30055442A /* NSString+Xtensions.h */,
+				6FA3E2171966D2C30055442A /* NSString+Xtensions.m */,
 			);
 			path = "Xtension-Examples";
 			sourceTree = "<group>";
@@ -254,6 +259,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FA3E1EF1966D24E0055442A /* XTAppDelegate.m in Sources */,
+				6FA3E2181966D2C30055442A /* NSString+Xtensions.m in Sources */,
 				6FA3E1F81966D24E0055442A /* XTViewController.m in Sources */,
 				6FA3E1EB1966D24E0055442A /* main.m in Sources */,
 			);
@@ -470,6 +476,7 @@
 				6FA3E2121966D24F0055442A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6FA3E2131966D24F0055442A /* Build configuration list for PBXNativeTarget "Xtension-ExamplesTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +485,7 @@
 				6FA3E2151966D24F0055442A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
